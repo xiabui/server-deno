@@ -6,7 +6,7 @@ const client = await new Client();
 client.connect({
   hostname: "127.0.0.1",
   username: "root",
-  password: "",
+  password: "05052906LA@#",
   port: 3306,
   db: DATABASE,
 });
